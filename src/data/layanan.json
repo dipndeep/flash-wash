@@ -1,0 +1,225 @@
+{
+  "business": {
+    "name": "FLASH Detailing and Polish",
+    "shortName": "FLASH",
+    "tagline": "Bikin Motormu Kinclong Maksimal, Kamu Tinggal Santai di Rumah",
+    "subTagline": "Jasa cuci motor profesional, cuci rangka mendalam, dan detailing motor bergaransi kinclong dengan layanan antar-jemput langsung ke lokasi Anda.",
+    "phone": "628124858808",
+    "phoneFormatted": "+62 812-4858-808",
+    "instagram": "flashmotowash",
+    "instagramUrl": "https://instagram.com/flashmotowash",
+    "tiktok": "flashmotowash",
+    "tiktokUrl": "https://tiktok.com/@flashmotowash",
+    "address": "Jl. Raya Utama No. 88 (Area Strategis)",
+    "operationalHours": "Senin – Minggu: 08.00 – 18.00 WIB",
+    "pickupHours": "Setiap hari: 08.30 – 17.00 WIB",
+    "mapsUrl": "https://maps.google.com/?q=FLASH+Detailing+and+Polish"
+  },
+  "pickupPolicy": {
+    "radius": "Radius 0 – 5 km (menjangkau hingga 10 km dengan konfirmasi)",
+    "freeCondition": "Gratis untuk paket Proper Detailing, Cuci Rangka, atau transaksi minimal Rp60.000",
+    "baseFee": "Rp10.000 (untuk paket hemat Reguler Wash radius 5 km)"
+  },
+  "categories": [
+    {
+      "id": "kecil",
+      "label": "Motor Kecil",
+      "cc": "< 125cc",
+      "examples": "Beat, Scoopy, Mio, Fazzio, Genio, Gear 125"
+    },
+    {
+      "id": "sedang",
+      "label": "Motor Sedang",
+      "cc": "125cc – 160cc",
+      "examples": "Vario 125/160, NMAX, Aerox, PCX, ADV, Vespa Matic"
+    },
+    {
+      "id": "besar",
+      "label": "Motor Besar",
+      "cc": "155cc – 250cc+",
+      "examples": "XMAX, Forza, Ninja 250, CBR250RR, R25, ZX-25R"
+    }
+  ],
+  "packages": [
+    {
+      "id": "reguler",
+      "name": "Reguler Wash",
+      "badge": null,
+      "isPopular": false,
+      "isDark": false,
+      "duration": "20–30 Menit",
+      "description": "Pembersihan standar motor harian secara menyeluruh, higienis, dan ramah terhadap lapisan cat.",
+      "prices": {
+        "kecil": 25000,
+        "sedang": 30000,
+        "besar": 40000
+      },
+      "features": [
+        "Pre-wash semprot pasir & debu kasar bertekanan",
+        "Cuci salju dengan Shampoo pH Balance aktif",
+        "Pembersihan sela-sela bodi & velg luar",
+        "Semir ban tahan lama & dressing bodi kasar"
+      ]
+    },
+    {
+      "id": "premium",
+      "name": "Premium Wash",
+      "badge": "Paling Diminati",
+      "isPopular": true,
+      "isDark": false,
+      "duration": "30–45 Menit",
+      "description": "Pencucian detail ekstra dengan proteksi lapisan kilap instan efek daun talas anti-air.",
+      "prices": {
+        "kecil": 50000,
+        "sedang": 60000,
+        "besar": 80000
+      },
+      "features": [
+        "Semua tahapan pembersihan Reguler Wash",
+        "Cuci salju Shampoo Gold pH Balance premium",
+        "Pembersihan detail sela velg, rantai & swingarm",
+        "Aplikasi Nano Ceramic Spray Semi-Coating (Hydrophobic)",
+        "Dressing bodi kasar kulit jeruk & semir ban wet-look"
+      ]
+    },
+    {
+      "id": "detailing",
+      "name": "Proper Detailing",
+      "badge": "Paket Eksklusif",
+      "isPopular": false,
+      "isDark": true,
+      "duration": "8 Jam – 1 Hari",
+      "description": "Restorasi total tampilan motor: poles bodi halus multi-step, cuci rangka, dan Graphene Coating.",
+      "prices": {
+        "kecil": 600000,
+        "sedang": 750000,
+        "besar": 1000000
+      },
+      "features": [
+        "Cuci salju pH balance & clay bar decontamination",
+        "Cuci rangka total, ruang mesin & suspensi kaki-kaki",
+        "Poles bodi halus multi-step (hilangkan baret halus & jamur)",
+        "Graphene Hybrid N2 Instant Coating (Deep Gloss & UV Protection)",
+        "Trim restorer bodi kulit jeruk kusam & dressing ban premium"
+      ]
+    }
+  ],
+  "cuciRangka": {
+    "id": "cuci-rangka",
+    "name": "Cuci Rangka & Kolong",
+    "duration": "2–4 Jam",
+    "description": "Pembersihan mendalam untuk rangka dan mesin dari kerak oli menahun, aspal, dan endapan lumpur membandel menggunakan chemical profesional ramah logam.",
+    "prices": {
+      "kecil": 250000,
+      "sedang": 300000,
+      "besar": 350000,
+      "trabas": "Mulai Rp350.000 (Menyesuaikan kondisi)"
+    },
+    "features": [
+      "Penurunan cover bodi tertentu untuk akses rangka penuh",
+      "Degreaser khusus non-korosif pembersih kerak oli & aspal",
+      "Sikat detail sela mesin, suspensi, radiator & swingarm",
+      "Finishing semir bodi & proteksi anti-karat ringan"
+    ]
+  },
+  "pickupSteps": [
+    {
+      "step": "1",
+      "title": "Chat via WhatsApp",
+      "description": "Kirimkan lokasi penjemputan (*share live location*) dan pilih paket perawatan yang Anda inginkan.",
+      "icon": "message-circle"
+    },
+    {
+      "step": "2",
+      "title": "Motor Dijemput",
+      "description": "Tim penjemput kami datang tepat waktu mengambil motor Anda dengan konfirmasi foto & surat tanda terima aman.",
+      "icon": "truck"
+    },
+    {
+      "step": "3",
+      "title": "Pengerjaan Profesional",
+      "description": "Motor dicuci teliti, dibersihkan sela-selanya, dan diproteksi coating sesuai standar SOP FLASH.",
+      "icon": "sparkles"
+    },
+    {
+      "step": "4",
+      "title": "Motor Diantar Kembali",
+      "description": "Motor tiba kembali di rumah atau kantor Anda dalam kondisi bersih kinclong wangi, siap diajak nongkrong.",
+      "icon": "check-circle"
+    }
+  ],
+  "advantages": [
+    {
+      "icon": "shield-check",
+      "title": "100% Shampoo pH Balance",
+      "description": "Kami hanya memakai shampoo otomotif murni netral (pH 7) yang aman untuk pernis cat, tidak membuat bodi kusam atau memudarkan warna striping."
+    },
+    {
+      "icon": "sparkles",
+      "title": "Proteksi Ceramic & Graphene",
+      "description": "Setiap pengerjaan Premium & Detailing dilapisi semi-coating berteknologi tinggi dengan efek daun talas tahan lama dan perlindungan sinar UV."
+    },
+    {
+      "icon": "search",
+      "title": "Detail Hingga ke Sela Terdalam",
+      "description": "Menggunakan kuas detailing bulu halus khusus untuk membersihkan debu di baut bodi, kisi radiator, kaliper rem, dan lekukan mesin."
+    },
+    {
+      "icon": "award",
+      "title": "Chemical Grade Internasional",
+      "description": "Didukung produk detailing terpercaya dari Meguiar's, Chemical Guys, Koch Chemie, dan formula Graphene N2 Coating berstandar pro."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Bima Aditya",
+      "motor": "Yamaha XMAX 250",
+      "package": "Proper Detailing",
+      "rating": 5,
+      "review": "Puas banget sama hasil detailing di FLASH! Baret-baret halus bekas lap sembarangan langsung hilang, catnya keluar lagi efek basah mirror gloss-nya. Rangka dan kolongnya bersih kinclong kayak baru keluar dealer."
+    },
+    {
+      "name": "Rian Kusuma",
+      "motor": "Honda PCX 160",
+      "package": "Premium Wash (Antar-Jemput)",
+      "rating": 5,
+      "review": "Layanan antar-jemputnya sangat ngebantu buat yang sibuk kerja. Tinggal shareloc pas lagi kerja di kantor, sorenya motor udah diantar balik kinclong wangi. Efek daun talas dari semi-coating-nya juara banget pas kehujanan!"
+    },
+    {
+      "name": "Dimas Pratama",
+      "motor": "Kawasaki KLX 150",
+      "package": "Cuci Rangka & Kolong",
+      "rating": 5,
+      "review": "Habis trabasan tanah merah keras nempel di mana-mana. Masuk sini rangka dibongkar dan disikat bersih tuntas tanpa sisa tanah. Baut-baut dan swingarm sampai kelihatan warna aslinya lagi. Mantap!"
+    },
+    {
+      "name": "Alvin Nur",
+      "motor": "Honda Vario 160",
+      "package": "Premium Wash",
+      "rating": 5,
+      "review": "Beda banget sama tempat cuci motor biasa. Di sini bodi kasar gak sekadar disemir berminyak, tapi pakai dressing yang awet gak gampang nempel debu. Harganya bersahabat banget untuk kualitas sedetail ini."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Bagaimana cara memesan layanan Antar-Jemput?",
+      "answer": "Sangat mudah! Cukup klik tombol 'Pesan Antar-Jemput' di website ini untuk terhubung ke WhatsApp kami. Kirimkan lokasi Anda (*share location*), jenis motor, dan paket yang dipilih. Tim kami akan menjadwalkan penjemputan sesuai jam yang Anda inginkan."
+    },
+    {
+      "question": "Berapa biaya layanan Antar-Jemput?",
+      "answer": "Layanan Antar-Jemput **GRATIS** untuk paket *Proper Detailing*, *Cuci Rangka*, atau pemesanan dengan minimal transaksi Rp60.000 dalam radius 0–5 km. Untuk paket Reguler Wash di bawah Rp60.000, hanya dikenakan biaya operasional hemat Rp10.000."
+    },
+    {
+      "question": "Apakah aman menyerahkan motor untuk dijemput?",
+      "answer": "Sangat aman. Setiap penjemputan dicatat oleh staf resmi FLASH dengan pengecekan kondisi fisik awal motor, dokumentasi foto, dan tanda terima digital yang dikirimkan langsung ke WhatsApp Anda sebelum motor dibawa."
+    },
+    {
+      "question": "Apa perbedaan Premium Wash dengan Proper Detailing?",
+      "answer": "Premium Wash adalah cuci detail harian (30–45 menit) yang menyertakan Nano Ceramic Semi-Coating untuk kilap instan dan perlindungan air. Sedangkan Proper Detailing adalah perawatan restorasi total (8 jam – 1 hari) yang mencakup pembongkaran bodi, pembersihan rangka mesin, penghilangan jamur & baret halus melalui poles multi-step, serta proteksi jangka panjang Graphene Coating."
+    },
+    {
+      "question": "Metode pembayaran apa saja yang diterima?",
+      "answer": "Kami menerima pembayaran tunai (cash saat motor diantar), transfer bank, serta scan QRIS untuk semua e-wallet (GoPay, OVO, Dana, ShopeePay) dan Mobile Banking."
+    }
+  ]
+}
