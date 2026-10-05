@@ -116,7 +116,7 @@ Batasan kapasitas mesin (CC) berlaku seragam agar pelanggan mudah mengenali kate
 
 | ID | Kebutuhan | Prioritas | Deskripsi Implementasi |
 |---|---|---|---|
-| **F1** | Tombol WhatsApp CTA | Wajib | Mengarah ke `https://wa.me/628124858808` dengan parameter teks pesan otomatis yang sudah ter-encode. |
+| **F1** | Tombol WhatsApp CTA | Wajib | Mengarah ke `https://wa.me/6281248588808` dengan parameter teks pesan otomatis yang sudah ter-encode. |
 | **F2** | Pesan WA Berbeda per Konteks | Wajib | Pre-filled text spesifik berdasarkan tombol yang diklik pelanggan (lihat rincian template pesan di bawah). |
 | **F3** | Sticky Navbar & Navigasi Cepat | Wajib | Header melayang dengan logo, link menu anchor (`#paket`, `#antar-jemput`, `#galeri`, `#lokasi`), dan tombol aksi cepat. |
 | **F4** | Data Layanan Terstruktur | Wajib | Seluruh harga, nama paket, dan deskripsi disimpan dalam struktur data JSON/JS terpisah agar mudah diperbarui. |
@@ -215,7 +215,7 @@ Batasan kapasitas mesin (CC) berlaku seragam agar pelanggan mudah mengenali kate
 - **Merek Produk & Chemical Profesional yang Digunakan:**
   - Menggunakan produk berkualitas grade internasional: *Shampoo Gold pH Balance*, *Meguiar's Detailer Line*, *Chemical Guys*, *Koch Chemie*, serta *Graphene Hybrid N2 Instant Coating* (ditampilkan pada section keunggulan).
 - **Nomor Kontak Layanan Pelanggan:**
-  - WhatsApp Resmi: `+62 812-4858-808`
+  - WhatsApp Resmi: `+62 812-4858-8808`
   - Akun Media Sosial: Instagram & TikTok `@flashmotowash`
 - **Keunggulan Kompetitif Utama:**
   1. Shampoo ramah cat (*100% pH balance*, tidak membuat cat kusam atau merusak pernis).

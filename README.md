@@ -123,7 +123,7 @@ Cukup buka dan edit file **`src/data/layanan.json`**. Angka pada kartu paket, ta
 ## 📞 Informasi Kontak Bisnis
 
 - **Nama Usaha:** FLASH Detailing and Polish
-- **WhatsApp:** [+62 812-4858-808](https://wa.me/628124858808)
+- **WhatsApp:** [+62 812-4858-8808](https://wa.me/6281248588808)
 - **Instagram:** [@flashmotowash](https://instagram.com/flashmotowash)
 - **TikTok:** [@flashmotowash](https://tiktok.com/@flashmotowash)
 - **Jam Operasional:** Senin – Minggu, 08.00 – 18.00 WIB (Layanan Jemput: 08.30 – 17.00 WIB)
