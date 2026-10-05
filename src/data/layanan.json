@@ -10,10 +10,10 @@
     "instagramUrl": "https://instagram.com/flashmotowash",
     "tiktok": "flashmotowash",
     "tiktokUrl": "https://tiktok.com/@flashmotowash",
-    "address": "Jl. Raya Utama No. 88 (Area Strategis)",
-    "operationalHours": "Senin – Minggu: 08.00 – 18.00 WIB",
-    "pickupHours": "Setiap hari: 08.30 – 17.00 WIB",
-    "mapsUrl": "https://maps.google.com/?q=FLASH+Detailing+and+Polish"
+    "address": "Jl. Tidore No. 364, Seringgu Jaya, Kec. Merauke, Papua Selatan",
+    "operationalHours": "Senin – Minggu: 08.00 – 18.00 WIT",
+    "pickupHours": "Setiap hari: 08.30 – 17.00 WIT",
+    "mapsUrl": "https://maps.app.goo.gl/ARLxk8uLc1y2cy6f6"
   },
   "pickupPolicy": {
     "radius": "Radius 0 – 5 km (menjangkau hingga 10 km dengan konfirmasi)",

@@ -2,7 +2,7 @@
 
 ## 1. Ringkasan
 
-Website satu halaman (*landing page*) modern dan responsif untuk mempromosikan **FLASH Detailing and Polish**, usaha cuci motor profesional dan *detailing* motor (area operasional workshop & jangkauan antar-jemput radius 5–10 km). Tujuan utamanya menarik pelanggan baru dan mengarahkan mereka untuk langsung menghubungi serta memesan via WhatsApp, dengan layanan antar-jemput (*pick-up & delivery*) sebagai nilai jual utama yang ditonjolkan.
+Website satu halaman (*landing page*) modern dan responsif untuk mempromosikan **FLASH MotoWash / FLASH Detailing and Polish**, usaha cuci motor profesional dan *detailing* motor berlokasi di **Jl. Tidore No. 364, Seringgu Jaya, Kec. Merauke, Papua Selatan** (dengan jangkauan antar-jemput radius 0–5 km). Tujuan utamanya menarik pelanggan baru dan mengarahkan mereka untuk langsung menghubungi serta memesan via WhatsApp, dengan layanan antar-jemput (*pick-up & delivery*) sebagai nilai jual utama yang ditonjolkan.
 
 ## 2. Latar Belakang & Masalah
 
@@ -203,11 +203,12 @@ Batasan kapasitas mesin (CC) berlaku seragam agar pelanggan mudah mengenali kate
 
 ---
 
-## 13. Parameter Operasional & Jawaban Final
-
+- **Alamat & Lokasi Workshop:**
+  - Alamat: **Jl. Tidore No. 364, Seringgu Jaya, Kec. Merauke, Kabupaten Merauke, Papua Selatan**
+  - Tautan Google Maps: [https://maps.app.goo.gl/ARLxk8uLc1y2cy6f6](https://maps.app.goo.gl/ARLxk8uLc1y2cy6f6)
 - **Jam Operasional Workshop:**
-  - Senin – Minggu: **08.00 – 18.00 WIB**.
-  - Jam Operasional Layanan Antar-Jemput: **08.30 – 17.00 WIB**.
+  - Senin – Minggu: **08.00 – 18.00 WIT**.
+  - Jam Operasional Layanan Antar-Jemput: **08.30 – 17.00 WIT**.
 - **Ketentuan Antar-Jemput:**
   - Jangkauan utama: Radius 0–5 km dari workshop.
   - Bebas biaya antar-jemput untuk paket *Proper Detailing*, *Cuci Rangka*, atau pemesanan minimal Rp60.000.
