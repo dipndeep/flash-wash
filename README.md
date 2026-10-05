@@ -35,7 +35,8 @@
 ```text
 flash-wash/
 ├── public/
-│   ├── flash-logo.svg            # Logo vektor resmi FLASH
+│   ├── logo.png                  # Logo resmi FLASH MotoWash (badge heksagonal)
+│   ├── favicon.png               # Icon tab browser resmi
 │   └── images/
 │       ├── hero-motor.jpg        # Foto hero studio motor kinclong
 │       ├── tank-before.jpg       # Foto sebelum detailing (kusam & baret)
