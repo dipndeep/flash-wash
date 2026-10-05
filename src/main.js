@@ -102,7 +102,8 @@ function setupCategoryTabs() {
     });
   });
 
-  // Initial pill positioning
+  // Initial pill positioning: call immediately and on resize/load
+  updatePrices(currentCategory);
   window.addEventListener('load', () => {
     updatePrices(currentCategory);
   });
@@ -114,10 +115,10 @@ function setupCategoryTabs() {
 // Setup Interactive Before/After Split Slider
 function setupSplitSlider() {
   const container = document.getElementById('beforeAfterSlider');
-  const beforeWrap = document.getElementById('sliderBeforeWrap');
+  const beforeImg = document.getElementById('sliderBeforeImg');
   const handleLine = document.getElementById('sliderHandleLine');
 
-  if (!container || !beforeWrap || !handleLine) return;
+  if (!container || !beforeImg || !handleLine) return;
 
   let isDragging = false;
 
